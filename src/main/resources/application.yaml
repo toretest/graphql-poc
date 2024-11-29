@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: graphql-poc
+  graphql:
+    graphiql:
+      path: /graphql
+      enabled: true
+
+

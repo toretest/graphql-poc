@@ -1,0 +1,1 @@
+To use the AWS credentials from your AWS toolkit and profile, you can directly use the DefaultCredentialsProvider to obtain the credentials without generating a custom token. Here is the updated code for PocNeptunRestEndpoint.kt:
